@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vuepress/',
+  base: '/styleguide/',
   head: [
     ['link', { rel: 'stylesheet', href: '/styles/adjustment-layout.css' }],
     ['link', { rel: 'stylesheet', href: '/styles/main.css' }]
